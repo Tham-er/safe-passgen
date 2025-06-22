@@ -1,4 +1,4 @@
-## 🔗 [Click here to see the website](https://your-live-link-here)
+## 🔗 [Click here to see the website](https://safe-pass-generator.netlify.app/)
 
 # 🔐 Password Generator
 
@@ -40,4 +40,4 @@ A sleek and minimal password generator that lets users:
 
 ### 🎯 Live Demo
 
-[🔗 View Website](https://your-live-link-here)
+[🔗 View Website](https://safe-pass-generator.netlify.app/)
