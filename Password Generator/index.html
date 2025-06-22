@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body id="body_el">
+        <div class="main-container">
+           <h1 id="h1_el">Generate a <span class="green-color">random password<span></h1>
+           <p>Never use an unsecure password again.</p>
+            <div class="checkbox">
+                <input type="checkbox" id="no-symbols">
+                <label for="no-symbols" id="ns-element">No symbols</label>
+                <input type="checkbox" id="no-numbers"> 
+                <label for="no-numbers" id="nn-element">No numbers</label>
+            </div>
+           <button id="btn-generate" onclick="generate()">Generate passwords</button>
+        <div>  
+           <hr class="line-break">
+        <div class="password-container">
+            <span id="password-1" class="pass"></span>
+            <span id="password-2" class="pass"></span>
+        </div>
+        
+        <img id="lamp_el" src="/wb_incandescent_36dp_4ADF86_FILL0_wght400_GRAD0_opsz40.svg">
+        <script src="index.js" defer></script>
+    </body>
+</html>
